@@ -1,0 +1,2 @@
+Para correr el archivo Tarea_4.ipynb, es necesario que este y los archivo c se encuentren en la misma carpeta que los experimentos
+Tarea_4.ipynb corre solo los archivos c
